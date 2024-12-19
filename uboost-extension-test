@@ -1,0 +1,15 @@
+{
+    "apiBaseUrl": "uubb.website",
+    "balancerBaseUrl": "balancer.backend-youboost-extension.com",
+    "premiumBaseUrl": "premium.backend-youboost-extension.com",
+    "currentVersion": "6.2.1",
+    "requiredVersion": "6.2.1",
+    "supportedBrowsers": [
+        "chrome",
+        "edge-chromium",
+        "yandexbrowser"
+    ],
+    "proxyUpdatePeriod": 50,
+    "proxyUpdatePeriodPremium": 50,
+    "showOnUpdateVersion": "6.2.0"
+}
