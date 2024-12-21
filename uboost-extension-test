@@ -1,5 +1,5 @@
 {
-    "apiBaseUrl": "uubb.website",
+    "apiBaseUrl": "balancer.backend-youboost-extension.com",
     "balancerBaseUrl": "balancer.backend-youboost-extension.com",
     "premiumBaseUrl": "premium.backend-youboost-extension.com",
     "currentVersion": "6.2.1",
