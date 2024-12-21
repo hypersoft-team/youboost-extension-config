@@ -1,5 +1,5 @@
 {
-    "apiBaseUrl": "uubb.website",
+    "apiBaseUrl": "balancer.backend-youboost-extension.com",
     "currentVersion": "6.2.1",
     "requiredVersion": "6.2.1",
     "supportedBrowsers": [
