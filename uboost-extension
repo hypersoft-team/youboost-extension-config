@@ -9,5 +9,5 @@
     ],
     "proxyUpdatePeriod": 50,
     "proxyUpdatePeriodPremium": 50,
-    "showOnUpdateVersion": "6.2.10"
+    "showOnUpdateVersion": "5.0.0"
 }
